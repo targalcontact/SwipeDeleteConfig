@@ -1,7 +1,7 @@
 {
     "ads_enabled": true,
 
-    "provider": "both",
+    "provider": "facebook",
 
     "banner_enabled": true,
     "interstitial_enabled": true,
@@ -11,9 +11,9 @@
     "banner_provider": "facebook",
     "interstitial_provider": "facebook",
     "native_provider": "facebook",
-    "rewarded_provider": "admob",
+    "rewarded_provider": "facebook",
 
-    "interstitial_after_actions": 30,
+    "interstitial_after_actions": 5,
 
     "priority": "facebook",
     "fallback_enabled": true,
