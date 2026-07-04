@@ -18,6 +18,6 @@
     "priority": "facebook",
     "fallback_enabled": true,
 
-    "cache_hours": 6,
+    "cache_hours": 0.01,
     "test_mode": true
 }
