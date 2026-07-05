@@ -1,17 +1,17 @@
 {
     "ads_enabled": true,
 
-    "provider": "facebook",
+    "provider": "both",
 
     "banner_enabled": true,
     "interstitial_enabled": true,
-    "native_enabled": true,
+    "native_enabled": false,
     "rewarded_enabled": false,
 
-    "banner_provider": "facebook",
-    "interstitial_provider": "facebook",
+    "banner_provider": "admob",
+    "interstitial_provider": "both",
     "native_provider": "facebook",
-    "rewarded_provider": "facebook",
+    "rewarded_provider": "admob",
 
     "interstitial_after_actions": 5,
 
