@@ -5,7 +5,7 @@
 
     "banner_enabled": true,
     "interstitial_enabled": true,
-    "native_enabled": false,
+    "native_enabled": true,
     "rewarded_enabled": false,
 
     "banner_provider": "admob",
