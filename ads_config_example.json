@@ -9,13 +9,13 @@
 
     "interstitial": {
       "enabled": true,
-      "provider": "facebook",
+      "provider": "admob",
       "after_actions": 5
     },
 
     "native": {
       "enabled": true,
-      "provider": "facebook"
+      "provider": "admob"
     },
 
     "admob_ids": {
