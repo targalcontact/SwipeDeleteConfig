@@ -1,3 +1,4 @@
+{
   "ads": {
     "enabled": true,
 
@@ -18,14 +19,14 @@
     },
 
     "admob_ids": {
-      "app_open":      "ca-app-pub-3940256099942544/9257395921",
-      "interstitial":  "ca-app-pub-3940256099942544/1033173712",
-      "native":        "ca-app-pub-3940256099942544/5354046379"
+      "app_open": "ca-app-pub-3940256099942544/9257395921",
+      "interstitial": "ca-app-pub-3940256099942544/1033173712",
+      "native": "ca-app-pub-3940256099942544/5354046379"
     },
 
     "facebook_ids": {
-      "interstitial":  "VID_HD_16_9_15S_LINK#767350561574495_767351001574451",
-      "native":        "CAROUSEL_IMG_SQUARE_LINK#767350561574495_767351054907779"
+      "interstitial": "VID_HD_16_9_15S_LINK#767350561574495_767351001574451",
+      "native": "CAROUSEL_IMG_SQUARE_LINK#767350561574495_767351054907779"
     }
   }
 }
