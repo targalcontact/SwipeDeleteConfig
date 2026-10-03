@@ -10,7 +10,7 @@
     "interstitial": {
       "enabled": true,
       "provider": "admob",
-      "after_actions": 5
+      "after_actions": 1
     },
 
     "native": {
